@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header"/> 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Science+Gothic&size=40&pause=500&color=2FC8C4&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+PRoX" alt="Who is stole my cool SVG?" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Science+Gothic&size=40&pause=500&color=2FC8C4&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Verdantium" alt="Who is stole my cool SVG?" /></a>
 </div>
 <h3 align="center"></h3>
 
